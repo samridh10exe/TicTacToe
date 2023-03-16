@@ -1,1 +1,2 @@
 # TicTacToe
+The code is a Java implementation of the game Tic Tac Toe. It creates a graphical user interface using the Swing library, with a game board represented as a 3x3 grid of buttons. The game logic is implemented using a two-dimensional array of characters to represent the game board and a variable to keep track of the current player's symbol ('X' or 'O'). The program checks for valid moves and updates the board accordingly, checking for a win or tie condition after each move. The game continues until a win or tie is achieved.
